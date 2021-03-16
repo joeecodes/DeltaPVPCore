@@ -1,0 +1,13 @@
+name: DeltaPVPCore
+version: ${project.version}
+main: com.hypews.deltapvp.DeltaPVP
+api-version: 1.16
+authors: [ hypews ]
+description: DeltaPVP Core
+commands:
+  deltapvp:
+    description: Main command
+    usage: /<command>
+    aliases:
+      - dpvp
+      - delta
